@@ -5,7 +5,7 @@
 <h1 align="center">I'm <a href="https://github.com/dev-elixir">Abhinav Kumar<a><img src="./images/wave.gif" width="60px"/></h1>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a Professional Programmer.
+- 🏫: I'm a Professional Devloper.
 - 🔭: I’m currently working on many small projects.
 - 🌱: I’m currently learning Web Scraping and Node.js. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
